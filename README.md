@@ -43,7 +43,7 @@
 
 ### 📫 Contato
 
-- 📧 **Email:** eltonmatsinhe@email.com  
+- 📧 **Email:** eltonmatsinhe8330@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/eltonmatsinhe](https://linkedin.com/in/eltonmatsinhe)  
 - 📺 **YouTube:** [Tudo Sobre Programação](https://youtube.com/@tudosobreprogramacao)
 
